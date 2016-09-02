@@ -1,2 +1,2 @@
 # aussong
-code for aussong.com
+sample code
